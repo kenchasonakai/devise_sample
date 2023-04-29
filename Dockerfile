@@ -1,7 +1,7 @@
 #applicationのディレクトリ名で置き換えてください
 ARG APP_NAME=app
 #使いたいrubyのimage名に置き換えてください
-ARG RUBY_VERSION=ruby:3.2.1
+ARG RUBY_VERSION=ruby:3.0.6
 #使いたいnodeのversionに置き換えてください
 ARG NODE_VERSION='16'
 
